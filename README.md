@@ -97,6 +97,8 @@ This dataset contains information on default payments, demographic factors, cred
 
 ## Conclusion
 In this project, we tackled a classification problem in which we had to classify and predict whether a credit card holder is likely to default on their payments. This problem is important for credit card companies, as it allows them to identify risky borrowers and take appropriate measures to minimize their losses.
+
+
     - There were 30000 records and 25 attributes in the dataset.
     - We started by importing the dataset, and necessary libraries and conducted exploratory data analysis (EDA) to get a clear insight into each feature by separating the 
       dataset into numeric and categoric features. We did Univariate, Bivariate, and even multivariate analyses.
